@@ -17,4 +17,5 @@ I have provided sample code to demonstrate an example of how to use my component
 I used only two sources to research my findings on the component known as TextClock. Most of my content are sourced from the open source developer android website where all the information about android is reviewed to build and innovative interactive apps for everyone. The second link is a source to show an example of how to use the TextClock component in android studio. I used something similar in my app for demonstrating an Text Clock example but I added some new and different methods to show their usage.
 
 https://developer.android.com/reference/android/widget/TextClock
+
 https://www.tutlane.com/tutorial/android/android-textclock-with-examples
